@@ -3,3 +3,4 @@ Corresponding electrophysiological recordings from the same session is available
 The script plotCSD.m results in the CSD pattern.
 The same data can be used to perform additional analysis to identify layers, i.e. the spike-phase-approach of Davis et al. (https://elifesciences.org/articles/84512)
 For that analysis one needs to use the spike times. The last paragraph in plotCSD.m loads in the spike times from the data, after sorting with Kilosort 4.
+
